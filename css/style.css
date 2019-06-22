@@ -1,5 +1,6 @@
+@charset "UTF-8";
 @font-face {
-  font-family: 'icomoon';
+  font-family: "icomoon";
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
   src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
@@ -25,14 +26,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #ff5722;
+  color: #115c9b;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
 }
 a:hover {
   text-decoration: none !important;
-  color: #ff5722 !important;
+  color: #115c9b !important;
 }
 
 p, ul, ol {
@@ -55,17 +56,17 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #ff5722;
+  background: #115c9b;
 }
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #ff5722;
+  background: #115c9b;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #ff5722;
+  background: #115c9b;
 }
 
 #fh5co-header {
@@ -86,7 +87,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #ff5722;
+  background: #115c9b;
 }
 .header-top .fh5co-link a {
   margin-left: 10px;
@@ -140,7 +141,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover,
-  .fh5co-hero {
+.fh5co-hero {
     height: 700px;
   }
 }
@@ -184,7 +185,7 @@ figure {
 }
 .fh5co-cover .btn {
   padding: 1em 2em;
-  opacity: .9;
+  opacity: 0.9;
 }
 .fh5co-cover.fh5co-cover_2 {
   height: 600px;
@@ -274,11 +275,11 @@ figure {
   border-bottom: none !important;
 }
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #ff5722 !important;
+  color: #115c9b !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #ff5722;
+  color: #115c9b;
 }
 
 .sf-menu li,
@@ -302,7 +303,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #ff5722;
+  color: #115c9b;
 }
 
 .sf-menu ul li:hover,
@@ -320,7 +321,7 @@ figure {
 }
 
 .sf-arrows .sf-with-ul:after {
-  content: '';
+  content: "";
   position: absolute;
   top: 50%;
   right: 1em;
@@ -385,10 +386,10 @@ figure {
   }
 }
 #fh5co-logo a {
-  color: #ff5722;
+  color: #115c9b;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #ff5722 !important;
+  color: #115c9b !important;
 }
 
 #fh5co-menu-wrap {
@@ -399,15 +400,15 @@ figure {
   margin-top: 15px;
 }
 #fh5co-menu-wrap .sf-menu a {
-  padding: 1em .75em;
+  padding: 1em 0.75em;
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #ff5722 !important;
+  color: #115c9b !important;
 }
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
-  font-family: 'icomoon';
+  font-family: "icomoon";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -419,11 +420,11 @@ figure {
   -moz-osx-font-smoothing: grayscale;
   position: absolute;
   float: right;
-  margin-right: -0px;
+  margin-right: 0px;
   top: 50%;
   font-size: 12px;
   margin-top: -7px;
-  content: "\e922";
+  content: "";
   color: rgba(0, 0, 0, 0.5);
 }
 #fh5co-primary-menu > li > ul li {
@@ -431,7 +432,7 @@ figure {
 }
 #fh5co-primary-menu > li > ul li > .sf-with-ul:after {
   border: none !important;
-  font-family: 'icomoon';
+  font-family: "icomoon";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -446,7 +447,7 @@ figure {
   margin-right: 10px;
   top: 20px;
   font-size: 12px;
-  content: "\e924";
+  content: "";
   color: rgba(0, 0, 0, 0.5);
 }
 
@@ -474,7 +475,7 @@ figure {
   left: 20px;
   width: 0;
   height: 0;
-  content: '';
+  content: "";
 }
 
 #fh5co-primary-menu .fh5co-sub-menu:after {
@@ -487,7 +488,7 @@ figure {
   border-bottom: 8px solid #fff;
   border-bottom: 8px solid white;
   border-left: 8px solid transparent;
-  content: '';
+  content: "";
 }
 
 #fh5co-primary-menu .fh5co-sub-menu .fh5co-sub-menu:before {
@@ -523,7 +524,7 @@ figure {
   background: none;
 }
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #ff5722 !important;
+  color: #115c9b !important;
 }
 
 #fh5co-work-section,
@@ -536,11 +537,11 @@ figure {
 }
 @media screen and (max-width: 768px) {
   #fh5co-work-section,
-  #fh5co-services-section,
-  #fh5co-content-section,
-  #fh5co-work-section_2,
-  #fh5co-news-section,
-  #fh5co-features {
+#fh5co-services-section,
+#fh5co-content-section,
+#fh5co-work-section_2,
+#fh5co-news-section,
+#fh5co-features {
     padding: 4em 0;
   }
 }
@@ -555,13 +556,13 @@ figure {
 }
 .heading-section:after {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 0;
   left: 50%;
   width: 100px;
   margin-left: -50px;
   height: 2px;
-  background: #ff5722;
+  background: #115c9b;
 }
 .heading-section h3 {
   font-size: 40px;
@@ -578,11 +579,11 @@ figure {
   margin-bottom: 10px;
   font-weight: 700;
   color: #000;
-  letter-spacing: .2em;
+  letter-spacing: 0.2em;
 }
 .feature-text h3 .number {
   margin-right: 5px;
-  color: #ff5722;
+  color: #115c9b;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -593,7 +594,7 @@ figure {
 }
 
 .services {
-  background: #ff5722;
+  background: #115c9b;
   background: #fff;
   padding: 40px 20px 20px 20px;
   margin-bottom: 30px;
@@ -614,12 +615,12 @@ figure {
 }
 .services span i {
   font-size: 40px;
-  color: #ff5722 !important;
+  color: #115c9b !important;
 }
 .services h3 {
   font-size: 20px;
   font-weight: 400;
-  color: #ff5722;
+  color: #115c9b;
 }
 .services p {
   font-size: 16px;
@@ -651,7 +652,7 @@ figure {
   display: table-cell;
   vertical-align: middle;
   font-size: 40px;
-  color: #ff5722;
+  color: #115c9b;
 }
 .feature-left .feature-copy {
   float: right;
@@ -743,7 +744,7 @@ figure {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
 }
 #fh5co-portfolio-list li a:hover:before {
   background: rgba(0, 0, 0, 0.5);
@@ -888,7 +889,7 @@ figure {
 
 #fh5co-services .fh5co-number {
   font-size: 30px;
-  color: #ff5722;
+  color: #115c9b;
   position: relative;
   padding-top: 10px;
   font-style: italic;
@@ -904,7 +905,7 @@ figure {
   height: 3px;
   top: 0;
   left: 0;
-  background: #ff5722;
+  background: #115c9b;
 }
 #fh5co-services .fh5co-icon {
   margin-bottom: 30px;
@@ -923,7 +924,7 @@ figure {
 }
 #fh5co-services .fh5co-icon i {
   font-size: 200px;
-  color: #ff5722;
+  color: #115c9b;
 }
 @media screen and (max-width: 768px) {
   #fh5co-services .fh5co-icon i {
@@ -943,7 +944,7 @@ figure {
 }
 #fh5co-contact .contact-info li i {
   position: absolute;
-  top: .3em;
+  top: 0.3em;
   left: 0;
   font-size: 22px;
   color: rgba(0, 0, 0, 0.3);
@@ -970,7 +971,7 @@ figure {
 #fh5co-contact .form-control:focus, #fh5co-contact .form-control:active {
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
-#fh5co-contact input[type="text"] {
+#fh5co-contact input[type=text] {
   height: 50px;
 }
 #fh5co-contact .form-group {
@@ -1019,7 +1020,7 @@ figure {
 .fh5co-testimonial > div h3, .fh5co-team > div h3 {
   margin-bottom: 0;
   font-size: 20px;
-  color: #ff5722;
+  color: #115c9b;
 }
 .fh5co-testimonial > div .position, .fh5co-team > div .position {
   color: #d9d9d9;
@@ -1085,7 +1086,7 @@ figure {
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-news .news-text span.comment a i {
-  color: #ff5722;
+  color: #115c9b;
   padding-left: 7px;
 }
 .fh5co-news .news-text h3 {
@@ -1097,7 +1098,6 @@ figure {
 .fh5co-news .news-text h3 a {
   color: rgba(0, 0, 0, 0.6);
 }
-
 #fh5co-start-project-section {
   padding: 7em 0;
   background: #F64E8B;
@@ -1130,7 +1130,7 @@ figure {
 
 .fh5co-social-icons > a {
   padding: 4px 10px;
-  color: #ff5722;
+  color: #115c9b;
 }
 .fh5co-social-icons > a i {
   font-size: 26px;
@@ -1141,7 +1141,7 @@ figure {
 }
 
 #footer {
-  background: #ff5722;
+  background: #115c9b;
   padding: 60px 0 40px;
 }
 #footer p {
@@ -1169,14 +1169,14 @@ figure {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #ff5722;
+  background: #115c9b;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #ff5722;
+  background: #115c9b;
   color: #fff !important;
 }
 .btn:hover, .btn:active, .btn:focus {
@@ -1255,14 +1255,14 @@ figure {
   color: rgba(255, 255, 255, 0.4);
 }
 #offcanvas-menu ul li a:hover {
-  color: #ff5722;
+  color: #115c9b;
 }
 #offcanvas-menu ul li > .fh5co-sub-menu {
   margin-top: 9px;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
-  color: #ff5722;
+  color: #115c9b;
 }
 #offcanvas-menu ul .fh5co-sub-menu {
   display: block !important;
@@ -1291,14 +1291,14 @@ figure {
   width: 30px;
   height: 2px;
   color: #fff;
-  font: bold 14px/.4 Helvetica;
+  font: bold 14px/0.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
   background: #fff;
-  transition: all .2s ease-out;
+  transition: all 0.2s ease-out;
 }
 .fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
-  content: '';
+  content: "";
   width: 30px;
   height: 2px;
   background: #fff;
@@ -1312,7 +1312,7 @@ figure {
   position: relative;
   color: #000;
   background: #000;
-  transition: all .2s ease-out;
+  transition: all 0.2s ease-out;
 }
 .fh5co-nav-toggle.dark i::before, .fh5co-nav-toggle.dark i::after {
   background: #000;
