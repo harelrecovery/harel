@@ -615,7 +615,7 @@ figure {
 #fh5co-services-section,
 #fh5co-content-section,
 #fh5co-work-section_2,
-#fh5co-News-section,
+#fh5co-news-section,
 #fh5co-features {
 	padding: 7em 0;
 	@media screen and (max-width: $screen-sm) {
@@ -1086,7 +1086,7 @@ figure {
 	}
 }
 
-.fh5co-News{
+.fh5co-news{
 	margin-bottom: 60px;
 	a{
 		img{
@@ -1104,7 +1104,7 @@ figure {
 	}
 	
 
-	.News-text {
+	.news-text {
 		margin-bottom: 30px;
 		position: relative;
 		background: $brand-white;
