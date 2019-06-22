@@ -89,6 +89,9 @@ figure {
   padding: 10px 0;
   background: #115c9b;
 }
+.header-top .fh5co-text {
+  color: #fff !important;
+}
 .header-top .fh5co-link a {
   margin-left: 10px;
   font-size: 13px;
