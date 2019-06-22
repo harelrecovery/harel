@@ -40,7 +40,7 @@ animate.css
 http://daneden.me/animate
 
 jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+https://github.com/imakewebthings/waypoints/News/master/licenses.txt
 
 Superfish Menu
 http://users.tpg.com.au/j_birch/plugins/superfish/examples/

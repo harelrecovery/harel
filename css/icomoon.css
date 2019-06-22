@@ -1686,7 +1686,7 @@
 .icon-pen:before {
     content: "\eac6";
 }
-.icon-blog:before {
+.icon-News:before {
     content: "\eac7";
 }
 .icon-eyedropper:before {
@@ -2976,10 +2976,10 @@
 .icon-ello:before {
     content: "\ec73";
 }
-.icon-blogger:before {
+.icon-Newsger:before {
     content: "\ec74";
 }
-.icon-blogger2:before {
+.icon-Newsger2:before {
     content: "\ec75";
 }
 .icon-tumblr3:before {
